@@ -5,7 +5,7 @@ using namespace std;
 class Teacher
 {
 public:
-	friend class Student;g
+	friend class Student;
 	Teacher()
 	{
 		cout << "Sit down!\n";
